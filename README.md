@@ -110,6 +110,7 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 
 - npm
+
   ```sh
   npm install npm@latest -g
   ```
@@ -118,14 +119,19 @@ This is an example of how to list things you need to use the software and how to
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
+
    ```sh
    git clone https://github.com/thibaulthulaux/repo_name.git
    ```
+
 3. Install NPM packages
+
    ```sh
    npm install
    ```
+
 4. Enter your API in `config.js`
+
    ```js
    const API_KEY = "ENTER YOUR API";
    ```
@@ -184,7 +190,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - <<email@email_client.com>>
 
 Project Link: [https://github.com/thibaulthulaux/repo_name](https://github.com/thibaulthulaux/repo_name)
 
